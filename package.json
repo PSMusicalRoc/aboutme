@@ -1,0 +1,15 @@
+{
+  "name": "aboutme",
+  "version": "1.0.0",
+  "description": "A Webpage that shows a bit about me!",
+  "exports": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DumbAsARoc",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "type": "module"
+}
